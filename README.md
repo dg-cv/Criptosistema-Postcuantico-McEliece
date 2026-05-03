@@ -1,9 +1,11 @@
-# TFG-Codigos-de-Goppa-y-su-aplicacion-al-criptosistema-post-cuantico-McEliece
+# Trabajo-Fin-de-Grado-Codigos-de-Goppa-y-su-aplicacion-al-criptosistema-post-cuantico-McEliece
 
 # Objetivo del TFG y repositorio
-Este repositorio contiene el código desarrollado para el Trabajo de Fin de Grado (TFG) en Ingeniería Matemática 'Códigos de Goppa y su aplicación al criptosistema post-cuántico McEliece'.
+Este repositorio contiene el código desarrollado para el Trabajo de Fin de Grado en Ingeniería Matemática 'Códigos de Goppa y su aplicación al criptosistema post-cuántico McEliece'.
 
-El objetivo de este TFG ha sido estudiar los códigos de Goppa y su aplicación al criptosistema de McEliece, que ha resurgido recientemente debido a su potencial, aunque aún no demostrada, resistencia frente a ataques realizados mediante ordenadores cuánticos. Como parte del trabajo, han sido implementados tanto los códigos de Goppa como el criptosistema de McEliece en el lenguaje de programación Python. Puesto que el código resultante supera las 3000 líneas, se ha creado este repositorio para organizarlo y facilitar su acceso.
+El objetivo de este trabajo ha sido estudiar en profundidad los códigos de Goppa y su aplicación al criptosistema de McEliece, criptosistema que ha resurgido recientemente debido a su potencial, aunque aún no demostrada, resistencia frente a ataques realizados mediante ordenadores cuánticos. Como parte central del trabajo, han sido implementados tanto los códigos de Goppa como el criptosistema de McEliece en el lenguaje de programación Python. 
+
+Puesto que el código resultante supera las 3000 líneas, se ha creado este repositorio para organizarlo y facilitar su acceso.
 
 ## Estructura del repositorio
 El repositorio se compone de un total de 13 archivos .py:
@@ -34,4 +36,4 @@ Se pueden probar las funciones anteriores en los archivos 'ejemplo_decodificacio
 Cabe mencionar que el tiempo de ejecución de 'ejemplo_decodificacion_goppa_tfg.py', 'ejemplo_mceliece_tfg.py' no llega al minuto, mientras que 'ejemplo_mceliece_parametros_originales.py' tarda aproximadamente 50 minutos en ejecutarse. 
 
 ## Autor
-Trabajo realizado por [Diana Gómez Moreno] para el TFG en Ingeniería Matemática 'Códigos de Goppa y su aplicación al criptosistema post-cuántico McEliece'.
+Trabajo realizado por [Diana Gómez Moreno] para el Trabajo de Fin de Grado en Ingeniería Matemática de la Universidad Complutense de Madrid, 'Códigos de Goppa y su aplicación al criptosistema post-cuántico McEliece'.
