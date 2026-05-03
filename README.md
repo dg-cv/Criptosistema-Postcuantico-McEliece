@@ -1,6 +1,6 @@
-# Trabajo-Fin-de-Grado-Codigos-de-Goppa-y-su-aplicacion-al-criptosistema-post-cuantico-McEliece
+# Codigos-de-Goppa-y-su-aplicacion-al-criptosistema-post-cuantico-McEliece
 
-# Objetivo del TFG y repositorio
+# Objetivo del repositorio
 Este repositorio contiene el código desarrollado para el Trabajo de Fin de Grado en Ingeniería Matemática 'Códigos de Goppa y su aplicación al criptosistema post-cuántico McEliece'.
 
 El objetivo de este trabajo ha sido estudiar en profundidad los códigos de Goppa y su aplicación al criptosistema de McEliece, criptosistema que ha resurgido recientemente debido a su potencial, aunque aún no demostrada, resistencia frente a ataques realizados mediante ordenadores cuánticos. Como parte central del trabajo, han sido implementados tanto los códigos de Goppa como el criptosistema de McEliece en el lenguaje de programación Python. 
